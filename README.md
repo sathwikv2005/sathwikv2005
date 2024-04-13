@@ -5,7 +5,7 @@
 Hi, I'm Sathwik Vemula AKA Kitsune47
 
 
-### Languages I know are
+# Languages I know are
 **C++**, **JAVA**, **PYTHON**, **JAVASCRIPT**
 
 
