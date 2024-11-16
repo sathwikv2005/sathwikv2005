@@ -16,6 +16,6 @@ I am also experienced with popular JavaScript frameworks like React.js, Node.js,
 
 # My GitHub stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sathwikv2005&theme=dark)](https://git.io/streak-stats)
-### Top Langs
+### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathwikv2005&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
