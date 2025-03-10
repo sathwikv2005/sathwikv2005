@@ -10,7 +10,7 @@ My interests include full-stack web development, building web apps, and working 
 - Java
 - Python
 
-I am also experienced with popular JavaScript frameworks like React.js, Node.js, and Express.js.
+I am also experienced with popular JavaScript libraries like React.js, Node.js, and Express.js.
 
 
 
