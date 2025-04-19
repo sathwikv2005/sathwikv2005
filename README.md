@@ -11,5 +11,5 @@ I'm a **Full-Stack Developer** with a passion for building end-to-end applicatio
 - **Frontend:** React.js • HTML • CSS  
 - **Backend:** Node.js • Express.js • RESTful APIs • Socket.io  
 - **Databases:** MongoDB • SQL  
-- **Languages:** TypeScript • JavaScript • Python • C++ • Java  
+- **Languages:** TypeScript • JavaScript • C++ • C • Python • Java
 - **Tools:** Git • VS Code
