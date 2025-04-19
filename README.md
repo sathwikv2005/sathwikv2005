@@ -1,21 +1,15 @@
-### Hi there 👋
+# Hi, I'm Sathwik Vemula 👋
 
+I'm a **Full-Stack Developer** with a passion for building end-to-end applications. I enjoy taking on both front-end and back-end challenges and delivering practical, real-world solutions. I love working with modern technologies to create impactful software that is both efficient and scalable.
 
-# About me
-I am a computer science student from India who began coding at the age of 15. I enjoy coding in my free time to enhance my skills.
+### 🧑‍💻 What I do:
+- Build **full-stack applications** with React, Node.js, and MongoDB
+- Design scalable **RESTful APIs** and backend services
+- Write **clean, maintainable code** while focusing on performance and user experience
 
-My interests include full-stack web development, building web apps, and working with APIs. I am proficient in:
-- C/C++
-- JavaScript
-- Java
-- Python
-
-I am also experienced with popular JavaScript libraries like React.js, Node.js, and Express.js.
-
-
-
-# My GitHub stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sathwikv2005&theme=dark)](https://git.io/streak-stats)
-### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathwikv2005&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+### 🛠️ Tech Stack
+- **Frontend:** React.js • HTML • CSS  
+- **Backend:** Node.js • Express.js • RESTful APIs • Socket.io  
+- **Databases:** MongoDB • SQL  
+- **Languages:** TypeScript • JavaScript • Python • C++ • Java  
+- **Tools:** Git • VS Code
